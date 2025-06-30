@@ -1,1 +1,1 @@
-# tarea-git-taller
+# Repositorio de series recomendadas
